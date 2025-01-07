@@ -1,0 +1,7 @@
+train: C:\\Users\\obee\\Documents\\vsc\\archive 1\\road_detection\\road_detection\\train\\images
+val: C:\\Users\\obee\\Documents\\vsc\\archive 1\\road_detection\\road_detection\\valid\\images
+
+nc: 11  # Numărul de clase
+names: ["Car", "Different-Traffic-Sign", "Green-Traffic-Light", "Motorcycle", 
+        "Pedestrian", "Pedestrian-Crossing", "Prohibition-Sign", 
+        "Red-Traffic-Light", "Speed-Limit-Sign", "Truck", "Warning-Sign"]
